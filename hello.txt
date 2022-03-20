@@ -1,7 +1,5 @@
 hello world! hello git!
 hello world! hello git!
 hello world! hello git!
------------------------------
-update by branch hello boy!
------------------------------
 this is master branch!
+update by branch hello boy!---by hot-fix
